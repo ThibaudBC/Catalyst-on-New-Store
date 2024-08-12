@@ -1,1 +1,0 @@
-# Catalyst-on-New-Store
